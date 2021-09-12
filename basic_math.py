@@ -6,9 +6,12 @@
 
 
 def main():
+    print("A rectangle with dimensions 5cm & 3cm.")
+    print("Calculate the area and perimeter.")
+    print("")
     print("a = 5 x 3 = {}".format(5 * 3))
     print("p = (5 + 3) x 2 = {}".format((5 + 3) * 2))
 
+
 if __name__ == "__main__":
     main()
-
