@@ -2,7 +2,7 @@
 
 # Created by: Haokai Li
 # Created on: Sept 2021
-# This is the "bsic math"Program, with proper style
+# This is the "basic math"Program, with proper style
 
 
 def main():
